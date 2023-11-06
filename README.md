@@ -24,3 +24,6 @@ The rating system has personal bias as one person can be conservative about thei
 ### Normalized tabular data
 
 <img width="482" alt="netflix-normalized-data" src="https://github.com/pranavman11/Netflix_Prize_Data_Preprocessing/assets/42564227/48db0002-dc09-4de7-b67f-848d81e229d2">
+
+#### Before running the .py file
+Before running the code download the dataset from the link in Readme.md and save the dataset in /content/netflix-prize-data directory
